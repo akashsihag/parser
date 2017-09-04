@@ -1,1 +1,1 @@
-XML to Parquet parser.
+XML to Parquet parser written in scala.
